@@ -15,6 +15,7 @@ def getfactors(number):
         if number % num == 0:
             # factor is appending num
             factors.append(num)
+            factors.append(number // num)
     # we are returnin through factors
     return factors
 
