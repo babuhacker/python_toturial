@@ -1,28 +1,26 @@
 participantnumber = 5
 participantdata = []
 registeredparticipant = 0
-outputfile = open("participantdata.txt","w")
+outputfile = open("participantdata.txt", "w")
 
-
-while(registeredparticipant < participantnumber):
-    tempartdata = []#name, country of origin, age
+while (registeredparticipant < participantnumber):
+    tempartdata = []  # name, country of origin, age
     name = input("please enter your name: ")
     tempartdata.append(name)
     country = input("please enter your country of origin: ")
     tempartdata.append(country)
     age = int(input("please enter your age: "))
-    tempartdata.append(age)#[name, country, age]
+    tempartdata.append(age)  # [name, country, age]
     print(tempartdata)
     participantdata.append(tempartdata)
     print(participantdata)
-    #[temppartdata} = [name, country, age]
+    # [temppartdata} = [name, country, age]
 
-    registeredparticipant += 1# = registeredparticipant + 1
-
+    registeredparticipant += 1  # = registeredparticipant + 1
 
 for participant in participantdata:
     for data in participant:
-        outputfile.write(str(data))#str(25) -> "25"
+        outputfile.write(str(data))  # str(25) -> "25"
         outputfile.write(" ")
 
     outputfile.write("\n")
@@ -59,7 +57,7 @@ for part in inputlist:
     else:
         countries[tempcountry] = 1
 
-print("countries that attended",countries)
+print("countries that attended", countries)
 
 oldest = 0
 youngest = 100
@@ -76,6 +74,6 @@ for tempage in age:
         mostoccuringage = tempage
 print(oldest)
 print(youngest)
-print("most occuring age is:",mostoccuringage,"with",counter,"participants")
+print("most occuring age is:", mostoccuringage, "with", counter, "participants")
 
 inputfile.close()

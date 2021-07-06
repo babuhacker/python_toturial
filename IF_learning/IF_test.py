@@ -1,6 +1,3 @@
-
-
-
 Product = "Dell"
 Hp = False
 Condition = "Off"
@@ -13,13 +10,6 @@ elif Product == "Dell":
     Condition = "On"
 
 else:
-    Condition ="off"
-
+    Condition = "off"
 
 print(Condition)
-
-
-
-
-
-

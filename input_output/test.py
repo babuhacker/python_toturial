@@ -17,6 +17,6 @@ while True:
 
         if user == "append":
             name1 = input("tell me the file name")
-            outputfile = open(name1,"a")
+            outputfile = open(name1, "a")
             outputfile.write(input("what you want to write. "))
             outputfile.close()
