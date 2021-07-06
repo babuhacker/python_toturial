@@ -1,12 +1,12 @@
-import pyttsx3 #pip install pyttsx3
-import speech_recognition as sr #pip install speechRecognition
+import pyttsx  # pip install pyttsx3
+import speech_recognition as sr  # pip install speechRecognition
 import datetime
-import wikipedia #pip install wikipedia
+import wikipedia  # pip install wikipedia
 import webbrowser
 import os
 import smtplib
 
-engine = pyttsx3.init('sapi5')
+engine = pyttsx.init('sapi5')
 voices = engine.getProperty('voices')
 # print(voices[1].id)
 engine.setProperty('voice', voices[0].id)
@@ -19,10 +19,10 @@ def speak(audio):
 
 def wishMe():
     hour = int(datetime.datetime.now().hour)
-    if hour>=0 and hour<12:
+    if hour >= 0 and hour < 12:
         speak("Good Morning!")
 
-    elif hour>=12 and hour<18:
+    elif hour >= 12 and hour < 18:
         speak("Good Afternoon!")
 
     else:
@@ -30,8 +30,9 @@ def wishMe():
 
     speak("I am Jarvis Sir. Please tell me how may I help you")
 
+
 def takeCommand():
-    #It takes microphone input from the user and returns string output
+    # It takes microphone input from the user and returns string output
 
     r = sr.Recognizer()
     with sr.Microphone() as source:
@@ -50,6 +51,7 @@ def takeCommand():
         return "None"
     return query
 
+
 def sendEmail(to, content):
     server = smtplib.SMTP('smtp.gmail.com', 587)
     server.ehlo()
@@ -58,10 +60,11 @@ def sendEmail(to, content):
     server.sendmail('youremail@gmail.com', to, content)
     server.close()
 
+
 if __name__ == "__main__":
     wishMe()
     while True:
-    # if 1:
+        # if 1:
         query = takeCommand().lower()
 
         # Logic for executing tasks based on query
