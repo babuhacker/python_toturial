@@ -2,13 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="80a4ad1b-315b-40d2-8e64-c86c78a7bb9e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/hack/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hack/phone locationn.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hack/test_number.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hack/wifi.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hacker_rank/Validating Credit Card Numbers.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hacker_rank/Validating UID.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hacker_rank/Words Scores.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hacker_rank/Standardize Mobile Number Using Decorators.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -49,17 +43,35 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/hacker_rank/Validating Credit Card Numbers.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="462">
-              <caret line="28" column="1" selection-start-line="28" selection-start-column="1" selection-end-line="28" selection-end-column="1" />
+            <state relative-caret-position="-14">
+              <caret column="26" lean-forward="true" selection-start-column="26" selection-end-column="26" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/hacker_rank/Words Scores.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="221">
+              <caret line="13" column="22" selection-start-line="13" selection-start-column="22" selection-end-line="13" selection-end-column="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/hacker_rank/Default Arguments.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="343">
+              <caret line="28" column="24" lean-forward="true" selection-start-line="28" selection-start-column="24" selection-end-line="28" selection-end-column="24" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/hacker_rank/Words Scores.py">
+        <entry file="file://$PROJECT_DIR$/hacker_rank/Standardize Mobile Number Using Decorators.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="221">
-              <caret line="13" column="22" selection-start-line="13" selection-start-column="22" selection-end-line="13" selection-end-column="22" />
+            <state relative-caret-position="306">
+              <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
             </state>
           </provider>
         </entry>
@@ -84,8 +96,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/hacker_rank/Capitalize!.py" />
-        <option value="$PROJECT_DIR$/hacker_rank/The-Minion-Game.py" />
         <option value="$PROJECT_DIR$/hacker_rank/Merge-the-Tools!.py" />
         <option value="$PROJECT_DIR$/hacker_rank/Power-Mod_Power.py" />
         <option value="$PROJECT_DIR$/hacker_rank/Integers-Come-In-All-Sizes.py" />
@@ -135,6 +145,8 @@
         <option value="$PROJECT_DIR$/hacker_rank/Validating UID.py" />
         <option value="$PROJECT_DIR$/hacker_rank/Validating Credit Card Numbers.py" />
         <option value="$PROJECT_DIR$/hacker_rank/Words Scores.py" />
+        <option value="$PROJECT_DIR$/hacker_rank/Default Arguments.py" />
+        <option value="$PROJECT_DIR$/hacker_rank/Standardize Mobile Number Using Decorators.py" />
       </list>
     </option>
   </component>
@@ -612,7 +624,21 @@
       <option name="project" value="LOCAL" />
       <updated>1625831395682</updated>
     </task>
-    <option name="localTasksCounter" value="44" />
+    <task id="LOCAL-00044" summary="HackerRank Starting">
+      <created>1625899016819</created>
+      <option name="number" value="00044" />
+      <option name="presentableId" value="LOCAL-00044" />
+      <option name="project" value="LOCAL" />
+      <updated>1625899016819</updated>
+    </task>
+    <task id="LOCAL-00045" summary="HackerRank Starting">
+      <created>1625899319822</created>
+      <option name="number" value="00045" />
+      <option name="presentableId" value="LOCAL-00045" />
+      <option name="project" value="LOCAL" />
+      <updated>1625899319822</updated>
+    </task>
+    <option name="localTasksCounter" value="46" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -674,20 +700,6 @@
     <option name="LAST_COMMIT_MESSAGE" value="HackerRank Starting" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/projecteuler/problem11.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="476">
-          <caret line="28" column="32" selection-start-line="28" selection-start-column="32" selection-end-line="28" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/projecteuler/problem_1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" selection-start-line="9" selection-end-line="9" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/projecteuler/problem_2.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="238">
@@ -1020,8 +1032,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/hacker_rank/Validating Credit Card Numbers.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="462">
-          <caret line="28" column="1" selection-start-line="28" selection-start-column="1" selection-end-line="28" selection-end-column="1" />
+        <state relative-caret-position="-14">
+          <caret column="26" lean-forward="true" selection-start-column="26" selection-end-column="26" />
         </state>
       </provider>
     </entry>
@@ -1029,6 +1041,20 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="221">
           <caret line="13" column="22" selection-start-line="13" selection-start-column="22" selection-end-line="13" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hacker_rank/Default Arguments.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="343">
+          <caret line="28" column="24" lean-forward="true" selection-start-line="28" selection-start-column="24" selection-end-line="28" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hacker_rank/Standardize Mobile Number Using Decorators.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
         </state>
       </provider>
     </entry>
