@@ -2,16 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="80a4ad1b-315b-40d2-8e64-c86c78a7bb9e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Jarvis/Alexa.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Jarvis/Speak function.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/hack/hack.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hacker_rank/Mean, Var, and Std.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hacker_rank/incorrect regex.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hackerrank2/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hackerrank2/re.split().py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hackerrank2/string_validators.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hackerrank2/Group(), Groups() &amp; Groupdict().py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hackerrank2/Re.start() &amp; Re.end().py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hackerrank2/Regex Substitution.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hackerrank2/re.findall()&amp;re.findeter().py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Jarvis/A.I..py" beforeDir="false" afterPath="$PROJECT_DIR$/Jarvis/A.I..py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -21,15 +17,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/hacker_rank/Default Arguments.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="476">
-              <caret line="28" column="24" selection-start-line="28" selection-start-column="24" selection-end-line="28" selection-end-column="24" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/hacker_rank/Arrays.py">
           <provider selected="true" editor-type-id="text-editor">
@@ -75,11 +62,47 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/hackerrank2/re.split().py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="85">
               <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/hackerrank2/Group(), Groups() &amp; Groupdict().py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="68">
+              <caret line="4" selection-start-line="4" selection-end-line="4" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/hackerrank2/re.findall()&amp;re.findeter().py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="204">
+              <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/hackerrank2/Re.start() &amp; Re.end().py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="204">
+              <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/hackerrank2/Regex Substitution.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="136">
+              <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
             </state>
           </provider>
         </entry>
@@ -104,10 +127,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/hacker_rank/itertools.permutations().py" />
-        <option value="$PROJECT_DIR$/hacker_rank/itertools.combinations().py" />
-        <option value="$PROJECT_DIR$/hacker_rank/itertools.combinations_with_replacement().py" />
-        <option value="$PROJECT_DIR$/hacker_rank/Calander.py" />
         <option value="$PROJECT_DIR$/hacker_rank/Time Delta.py" />
         <option value="$PROJECT_DIR$/hacker_rank/collections.Counter().py" />
         <option value="$PROJECT_DIR$/hacker_rank/Polar Coordinates.py" />
@@ -155,6 +174,10 @@
         <option value="$PROJECT_DIR$/hackerrank2.py" />
         <option value="$PROJECT_DIR$/hackerrank2/string_validators.py" />
         <option value="$PROJECT_DIR$/hackerrank2/re.split().py" />
+        <option value="$PROJECT_DIR$/hackerrank2/Group(), Groups() &amp; Groupdict().py" />
+        <option value="$PROJECT_DIR$/hackerrank2/re.findall()&amp;re.findeter().py" />
+        <option value="$PROJECT_DIR$/hackerrank2/Re.start() &amp; Re.end().py" />
+        <option value="$PROJECT_DIR$/hackerrank2/Regex Substitution.py" />
       </list>
     </option>
   </component>
@@ -204,28 +227,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.string_validators">
-    <configuration name="A.I." type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="python_learning" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Jarvis" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Jarvis/A.I..py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.Re.start() &amp; Re.end()">
     <configuration name="Alexa" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python_learning" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -239,6 +241,27 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Jarvis/Alexa.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Re.start() &amp; Re.end()" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="python_learning" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/hackerrank2" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/hackerrank2/Re.start() &amp; Re.end().py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -268,7 +291,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="incorrect regex" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="re.findall()&amp;re.findeter()" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python_learning" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -276,11 +299,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/hacker_rank" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/hackerrank2" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/hacker_rank/incorrect regex.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/hackerrank2/re.findall()&amp;re.findeter().py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -312,11 +335,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Re.start() &amp; Re.end()" />
+        <item itemvalue="Python.re.findall()&amp;re.findeter()" />
         <item itemvalue="Python.string_validators" />
         <item itemvalue="Python.Alexa" />
         <item itemvalue="Python.hack" />
-        <item itemvalue="Python.A.I." />
-        <item itemvalue="Python.incorrect regex" />
       </list>
     </recent_temporary>
   </component>
@@ -660,7 +683,14 @@
       <option name="project" value="LOCAL" />
       <updated>1625904381681</updated>
     </task>
-    <option name="localTasksCounter" value="48" />
+    <task id="LOCAL-00048" summary="HackerRank Starting">
+      <created>1625981472486</created>
+      <option name="number" value="00048" />
+      <option name="presentableId" value="LOCAL-00048" />
+      <option name="project" value="LOCAL" />
+      <updated>1625981472486</updated>
+    </task>
+    <option name="localTasksCounter" value="49" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -722,37 +752,6 @@
     <option name="LAST_COMMIT_MESSAGE" value="HackerRank Starting" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/hacker_rank/Time Delta.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="7" column="46" selection-start-line="7" selection-start-column="46" selection-end-line="7" selection-end-column="46" />
-          <folding>
-            <element signature="e#0#9#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/hacker_rank/collections.Counter().py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="18" selection-start-line="18" selection-end-line="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/hacker_rank/Polar Coordinates.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" selection-start-line="8" selection-end-line="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/hacker_rank/Introduction to Sets.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" selection-start-line="11" selection-end-line="11" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/hacker_rank/Certificate.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="935">
@@ -1085,6 +1084,34 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
           <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hackerrank2/Group(), Groups() &amp; Groupdict().py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hackerrank2/re.findall()&amp;re.findeter().py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hackerrank2/Re.start() &amp; Re.end().py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hackerrank2/Regex Substitution.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
         </state>
       </provider>
     </entry>
