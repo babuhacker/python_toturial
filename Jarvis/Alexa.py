@@ -15,6 +15,7 @@ def speak(text):
 speak('hi i am your alexa ')
 
 
+
 def take_command():
     try:
         with sr.Microphone() as source:
@@ -27,7 +28,7 @@ def take_command():
                 print(command)
     except:
         pass
-    return command
+
 
 
 def run_alexa():
