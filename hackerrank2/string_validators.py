@@ -1,0 +1,6 @@
+n = input()
+print(any([c.isalnum() for c in n]))
+print(any([c.isalpha() for c in n]))
+print(any([c.isdigit() for c in n]))
+print(any([c.islower() for c in n]))
+print(any([c.isupper() for c in n]))
