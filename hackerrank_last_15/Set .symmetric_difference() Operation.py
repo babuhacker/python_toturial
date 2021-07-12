@@ -1,0 +1,8 @@
+a, b = (int(input()), input().split())
+c, d = (int(input()), input().split())
+x = set(b)
+y = set(d)
+p = y.symmetric_difference(x)
+q = x.symmetric_difference(y)
+r = p.union(q)
+print(len(r))
